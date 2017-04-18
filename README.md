@@ -1,4 +1,4 @@
-This is a project for [Michale Lynch](https://en.wikipedia.org/wiki/Michael_Lynch_(geneticist))'s **Evolutions of proteins and cells** class.
+This is a project for [Michael Lynch](https://en.wikipedia.org/wiki/Michael_Lynch_(geneticist))'s **Evolutions of proteins and cells** class.
 
 I wanted to learn more about some signaling mechanisms and asked if anyone was interested in collaborating in a project.  
 Melene came up with c-di-gmp which is a pretty interesting bacterial signaling molecule.
